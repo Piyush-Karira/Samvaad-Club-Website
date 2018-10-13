@@ -1,0 +1,309 @@
+
+body {
+	font-family:arial;
+	font-size:12px;
+	
+	margin:0;
+	padding:0;	
+	background:url(../images/back.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+.agile-title1 h3 {
+    font-size: 2.5em;
+    text-align: center;
+    color:white;
+    margin-bottom: 2em;
+    border: 2px dashed white;
+    display: inline-block;
+    padding: .4em 1em .2em;
+    }
+
+#info {
+	background:#333;
+	opacity:0.8;
+	position: absolute;
+	top:5px;
+	right:5px;
+	width:280px;
+	color:#fff;
+	border-radius: 5px;
+	z-index:10
+}
+
+	#info p {
+		padding:0 10px;
+	}
+
+a {
+	text-decoration:none;
+	color: #3e8ed7;
+}
+
+a:hover {
+	color: #61b7e6;
+}	
+
+.cont {
+	width:1041px;
+	height:100%;
+	position:relative;
+	top:50px;
+	left:40%;
+	margin-left:-350px;
+	margin-bottom:20px;
+}
+
+.footer{
+	margin-top:1000px;
+}
+
+/* HEXAGON STARTS HERE */
+.hex {
+	width:150px;
+	height:86px;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;			
+	-webkit-background-size: auto 173px;							
+	-moz-background-size: auto 173px;							
+	-ms-background-size: auto 173px;							
+	-o-background-size: auto 173px;							
+	position: relative;
+	float:left;
+	margin:25px 5px;
+	text-align:center;
+	zoom:1;
+}
+		
+	.hex.hex-gap {
+		margin-left: 86px;
+	}
+	
+	.hex a {
+		display:block;
+		width: 100%;
+		height:100%;
+		text-indent:-9999em;
+		position:absolute;
+		top:0;
+		left:0;
+	}
+
+	.hex .corner-1,
+	.hex .corner-2 {
+		position: absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+		background: inherit;								
+		z-index:-2;						
+		overflow:hidden;
+		-webkit-backface-visibility: hidden;
+		-moz-backface-visibility: hidden;
+		-ms-backface-visibility: hidden;
+		-o-backface-visibility: hidden;			
+		backface-visibility: hidden;			
+	}
+	
+	.hex .corner-1 {
+		z-index:-1;
+		-webkit-transform: rotate(60deg);
+		-moz-transform: rotate(60deg);
+		-ms-transform: rotate(60deg);
+		-o-transform: rotate(60deg);
+		transform: rotate(60deg);
+	}
+	
+	.hex .corner-2 {
+		-webkit-transform: rotate(-60deg);
+		-moz-transform: rotate(-60deg);
+		-ms-transform: rotate(-60deg);
+		-o-transform: rotate(-60deg);
+		transform: rotate(-60deg);
+	}
+	
+	.hex .corner-1:before,
+	.hex .corner-2:before {
+		width: 173px;
+		height:	173px;
+	  content: '';
+	  position: absolute;
+	  background: inherit;
+	  top:0;
+	  left: 0;
+	  z-index: 1;
+	  background: inherit;
+	  background-repeat:no-repeat;
+		-webkit-backface-visibility: hidden;
+		-moz-backface-visibility: hidden;
+		-ms-backface-visibility: hidden;
+		-o-backface-visibility: hidden;	
+		backface-visibility: hidden;				  
+	}			
+	
+
+	.hex .corner-1:before {
+		-webkit-transform: rotate(-60deg) translate(-87px, 0px);
+		-moz-transform: rotate(-60deg) translate(-87px, 0px);
+		-ms-transform: rotate(-60deg) translate(-87px, 0px);
+		-o-transform: rotate(-60deg) translate(-87px, 0px);
+		transform: rotate(-60deg) translate(-87px, 0px);	
+	  -webkit-transform-origin: 0 0;
+	  -moz-transform-origin: 0 0;
+	  -ms-transform-origin: 0 0;
+	  -o-transform-origin: 0 0;
+	  transform-origin: 0 0;
+	}			
+	
+	.hex .corner-2:before {
+		-webkit-transform: rotate(60deg) translate(-48px, -11px);
+		-moz-transform: rotate(60deg) translate(-48px, -11px);
+		-ms-transform: rotate(60deg) translate(-48px, -11px);
+		-o-transform: rotate(60deg) translate(-48px, -11px);
+		transform: rotate(60deg) translate(-48px, -11px);	
+		bottom:0;
+	}		
+
+
+	
+	/* Custom styles*/
+	.hex {		
+		color:transparent;
+	}
+	.
+	
+	
+	.hex h4 {
+		font-family: 'Josefin Sans', sans-serif;		
+		margin:0;			
+	}
+	
+	.hex hr {
+		border:0;
+		border-top:1px solid #eee;
+		width:60%;
+		margin:15px auto;
+	}
+	
+	.hex p {
+		font-size:16px;
+		font-family: 'Kotta One', serif;
+		width:80%;
+		margin:0 auto;
+	}
+
+	.hex.hex-1 {
+		background: #74cddb;
+	}
+	
+	.hex.hex-2 {
+		background: #f5c53c;
+	}
+	
+	.hex.hex-3 {
+		background: #80b971;
+	}
+.anu{
+	background-image: url(../Members/anu.png);
+}
+.lav{
+	background-image: url(../Members/lav.png);
+}
+.anuj{
+	background-image: url(../Members/anuj.png);
+}
+.akanksha{
+	background-image: url(../Members/akanksha.jpg);
+}
+.anjali {
+	background-image: url(../Members/anjali.jpg);
+}
+.spa{
+	background-image: url(../Members/unk.png);
+}
+.sha{
+	background-image: url(../Members/sha.png);
+}
+.may{
+	background-image: url(../Members/may.png);
+}
+
+.gautam{
+	background-image: url(../Members/gautam.jpg);
+}
+.isha{
+	background-image: url(../Members/isha.jpg);
+}
+.pandey{
+	background-image: url(../Members/shivangi.jpg);
+}
+.dan{
+	background-image: url(../Members/dan.png);
+}
+.prakarsh{
+	background-image: url(../Members/prakarsh.jpg);
+}
+.rounak{
+	background-image: url(../Members/rounak.jpg);
+}
+.shreya{
+	background-image: url(../Members/shreya.jpg);
+}
+.shri{
+	background-image: url(../Members/shripriya.jpg);
+}
+.mer{
+	background-image: url(../Members/mer.png);
+}
+.pragati{
+	background-image: url(../Members/pragati.jpg);
+}
+.jay{
+	background-image: url(../Members/jay.jpg);
+}
+.kan{
+	background-image: url(../Members/kan.jpg);
+}
+.manish{
+	background-image: url(../Members/manish.jpg);
+}
+.piyush
+{
+	background-image: url(../Members/piyush.jpg);
+}
+.ash{
+	background-image: url(../Members/ash.png);
+}
+.shweta{
+	background-image: url(../Members/shweta.jpg);
+}
+.jagriti{
+	background-image: url(../Members/jagriti.jpg);
+}
+.amit{
+	background-image: url(../Members/amit.jpg);
+}
+.shiv{
+	background-image: url(../Members/shivansh.jpg);
+}
+.ani{
+	background-image: url(../Members/ani.png);
+}
+.tathagat{
+	background-image: url(../Members/d.jpg);
+}
+.khare{
+	background-image: url(../Members/khare.jpg);
+}
+
+
+
+
+
+.hex:hover{
+	background: black;
+	padding-top: 30px;
+	color:#eee;
+}

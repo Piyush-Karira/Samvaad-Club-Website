@@ -1,0 +1,109 @@
+nav {
+	position:fixed;
+	background:none;
+	z-index:10000;
+	width:100%;
+	font-size:16px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+	transition: all 0.5s;
+
+    border: none;
+    margin: 0;
+    min-height: inherit;
+}
+
+nav.navScroll {
+	background:black;
+	font-size:16px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+	transition: all 0.5s;
+	color: #fff;
+}
+@media(max-width:768px){
+nav.navScroll{
+background:transparent;
+}
+}
+img.logo {
+	float:left;
+	width:162px;
+	margin-top:-53px;
+	display:inline;
+	transition: all 0.5s;
+}
+
+img.logoScroll {
+	display:inline;
+	width:140px;
+	margin-top:-45px;
+	margin-bottom:-20px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+	transition:all 0.5s;
+}
+
+div.men {
+	text-align:center;
+}
+
+div.menScroll {
+	float:right;
+}
+
+li.nav {
+	display:inline-block;
+	text-decoration:none;
+	padding-left:10px;
+	font-family:Goudy Old Style;
+	font-weight:bolder;
+    font-size:25px;
+    
+	
+}
+
+	li.nav a {
+		padding-top:30px;
+		font-size:20px;
+		list-style-type: none;
+		text-decoration:none;
+		color:#006064;
+		text-shadow:0.5px 0 0 rgba(255,255,255,0.5);
+	font-family:Goudy Old Style;
+	}
+	.nav > li > a:hover,.nav > li > a >.active{
+
+		background-color: transparent;
+		color:#ff8c00;
+	}	
+
+.nav > li > a{
+	color:white;
+	background-color: transparent;
+}
+
+nav > li > a:before {
+    content: '';
+    position: absolute;
+    top: 10px;
+    background: #ffffff;
+    height: 2px;
+    width: 16px;
+    right: -26px;
+	-webkit-transition: .5s all;
+	-moz-transition: .5s all; 
+    transition: .5s all;
+	-webkit-transform: rotate(-64deg);
+	-moz-transform: rotate(-64deg);
+	-o-transform: rotate(-64deg);
+	-ms-transform: rotate(-64deg);
+    transform: rotate(-64deg);
+}
+
+
+.navScroll a.selected {
+	color: none;
+}
+.hov  a:hover{
+}

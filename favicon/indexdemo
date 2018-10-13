@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Samvaad: The Literature and Quizzing Society</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); } </script>
+
+<link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+<link href="css/style.css" type="text/css" rel="stylesheet" media="all">  
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" /> 
+<link rel="stylesheet" href="css/prettySticky.css" type="text/css" /> 
+<link rel="stylesheet" href="css/swipebox.css">
+
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet"> 
+ 
+
+
+<!-- favicon -->
+<link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+<link rel="manifest" href="favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+ <!-- favicon ends -->
+
+<script src="js/jquery-2.2.3.min.js"></script> 
+<!-- //js -->
+<script src="js/jquery.min.js"></script>
+ <script src="js/bootstrap.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="js/prettySticky.js"></script>
+     <script>
+  $(document).ready(function(){
+  $(".nav a").smooth<a href="http://www.jqueryscript.net/tags.php?/Scroll/">Scroll</a>({
+    offset: -$("nav").outerHeight()
+
+  });
+
+});
+</script>
+<!-- web-fonts -->
+<link href='//fonts.googleapis.com/css?family=Cinzel+Decorative:400,700,900' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+<!-- //web-fonts -->
+<!-- start-smooth-scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>	
+<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$(".scroll").click(function(event){		
+				event.preventDefault();
+		
+		$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+			});
+		});
+</script>
+    
+    
+    
+<!-- //end-smooth-scrolling -->	
+</head>
+<body>
+	<!-- banner -->
+	
+		 <nav>
+
+  <div class="container">
+<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<!--<h1><a  href="index.html"><img src="images/samlogo2.png" alt="Logo" class="logo"></a></h1>-->
+					</div>
+    <!-- <div> <a><img src="images/samlogo.png" alt="Logo" class="logo">Samvaad</a> </div> -->
+
+    <div class="men collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+      <ul class="nav navbar-nav navbar-right">
+
+        <li><a href="#" class="active nav">Home</a></li>
+							<li><a href="#about" class="scroll nav">About</a></li>
+							<li><a href="#policy" class="scroll nav">Club Policy</a></li>
+							<li><a href="#menu" class="scroll nav">Sessions</a></li>
+							<li><a href="#team" class="scroll nav">Team</a></li>
+							<li><a href="#gallery" class="scroll nav">Gallery</a></li>
+							<li><a href="#events" class="scroll nav">Events</a></li>
+							<li><a href="#fest" class="scroll nav">Fests</a></li>
+                            <li><a href="#publication" class="scroll nav">Publications</a></li>
+							<li><a href="#contact" class="scroll nav">Contact Us</a></li>
+
+		
+      </ul>
+<div class="clearfix"> </div>	
+    </div>
+
+  </div>
+</nav>
+
+		<div class="banner">
+		<!-- //header -->
+		<!-- banner-text -->
+		<div class="banner-text"> 
+			<div class="flexslider">
+				
+			</div>  
+			<!-- modal -->
+			
+			<!-- //modal -->  
+			<!-- FlexSlider -->
+			<script defer src="js/jquery.flexslider.js"></script>
+			<script type="text/javascript">
+			$(window).load(function() {
+			  $('.flexslider').flexslider({
+				animation: "slide",
+				controlsContainer: $(".custom-controls-container"),
+				customDirectionNav: $(".custom-navigation a")
+			  });
+			});
+			</script>
+			<!-- //FlexSlider -->
+		</div> 
+		<!-- //banner-text --> 
+	</div>
+	<!-- //banner --> 
+	<!-- welcome --> 
+	<div id="about" class="welcome"> 
+		<div class="container">
+			<div class="agile-title">
+				<h3> About Us</h3>
+			</div>
+			<div class="w3ls-row">
+				
+				<div class="col-md-12 col-sm-12 welcome-right"> 
+					<p>Samvaad, The Literature And Quizzing Society of PDPM IIITDM Jabalpur, is an open convention for all the thoughtful minds having love for literature. The club is committed to tap the effective communication talent among the students and is poised to enable the talents with a cutting edge. To develop and hone the literary skills of the students, club inspires the students to develop a taste for literature and also works in the direction of educating their spoken and written language. It is intricate in a variety of activities aimed at building up the confidence and grooming the talents of students in facing various interpersonal activities and competitions. 
+
+					Samvaad is host to many events and sessions, namely Debate, Group Discussions, Quiz, Spell Bee, Poetry, Creative Writing, JAM, MUN, Elocution, Extempore, Anchoring and many more.
+
+We expand our overview to shed light on the issues that often over looked but affect our lives deeply. <!--Rape, misogyny, mental illnesses, interpersonal relationships, and other social, political, economic and personal problems are left upturned.-->
+
+We believe in providing an opportunity to everyone so all the voices are heard. We believe in discussing the various issues that concern us. We believe we can make a change, with our words and subsequently with our actions.</p>
+					
+				</div>
+				<div class="clearfix"> </div>
+			</div> 
+		</div>
+	</div>
+	<!-- //welcome --> 
+	<!-- slid -->
+	<div class="slid" id="policy">
+		
+			<div class="agile-title">
+				<h3>Club Policy</h3>
+			</div>
+			
+			
+			
+			<p style="font-size:16px;"><i class="fa fa-quote-left" aria-hidden="true"></i>
+			<ol style="color:white;font-size:16px;">
+			 <li>	All the members should be officially registered with Samvaad – The Literature and Quizzing Society.</li><br>
+			<li>	The registration process will be carried forward through a photo attested membership form to be filled in by the students 		wishing to become part of Samvaad – The Literature and Quizzing Society.</li><br>
+			<li>Only registered members of Samvaad – The Literature and Quizzing Society will be considered for any position in the The 		Literature and Quizzing Working Committee.
+				The Literature and Quizzing Working Committee is a student body comprising of active second year and third year members of Samvaad – The Literature and Quizzing Society. The decision regarding the sessions, budget, events, workshops, seminars and any other matter concerning Samvaad – The Literature and Quizzing Society is resolved after consideration of the majority in the meeting of The Literature and Quizzing Working Committee.
+				Each member of The Literature and Quizzing Working Committee is given responsibility of particular events.</li> <br>
+			<li>	Apart from competitions (open to all), only the registered members of Samvaad – The Literature and Quizzing Society shall be considered for any public speaking event under the responsibility of Samvaad – The Literature and Quizzing Society.</li>
+                <i class="fa fa-quote-right" aria-hidden="true"></i></
+			</ol>
+ 			</p>
+			</div>
+	<!-- //slid -->
+	<!-- menu -->
+	<div id="menu" class="menu">  
+		<div class="container">
+			<div class="agile-title">
+				<h3> Sessions</h3>
+			</div>
+			<div class="flexslider">
+				<ul class="slides">
+					<li>
+						
+					
+			<div class="gallery-agileinfo-row" style="padding-bottom:10px;">  
+				<div class="col-md-3 col-sm-6 gallery-grids">
+					<div class="hover ehover14">
+						<a>
+							<img src="images/poetry.jpg" alt="" class="img-responsive" />
+							<div class="overlay col-md-3 col-sm-3">
+								<h4>Poetry</h4>
+								
+							</div>
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 gallery-grids">
+					<div class="hover ehover14">
+						<a>
+							<img src="images/Quiz.png" alt="" class="img-responsive" />
+							<div class="overlay">
+								<h4>Quiz</h4>
+							</div>	
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 gallery-grids">
+					<div class="hover ehover14">
+						<a >
+							<img src="images/debate.jpg" alt="" class="img-responsive" />
+							<div class="overlay">
+								<h4>Debate</h4>
+								</div>
+						</a>	
+					</div>
+				</div>
+                
+                
+                
+                
+                
+				<div class="col-md-3 col-sm-6 gallery-grids">
+					<div class="hover ehover14">
+						<a >
+							<img src="images/Movie Review.png" alt="" class="img-responsive" />
+							<div class="overlay">
+								<h4>Movie Review</h4>
+							</div>	
+						</a>	
+					</div>
+				</div>
+				
+				
+				<div class="clearfix"> </div> 
+			</div>
+				
+			</li>
+					<li>
+						 
+					
+			<div class="gallery-agileinfo-row">  
+			<div class="col-md-3 col-sm-6  gallery-grids">
+					<div class="hover ehover14">
+						<a>
+							<img src="images/Creative Writing.png" alt="" class="img-responsive" />
+							<div class="overlay">
+								<h4>Creative Writing</h4>
+							</div>	
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 gallery-grids">
+					<div class="hover ehover14">
+						<a >
+							<img src="images/elocution.jpg" alt=""  style="height:141px;" class="img-responsive" />
+							<div class="overlay">
+								<h4>Elocution</h4>
+								
+							</div>
+						</a>	
+					</div>
+				</div> 
+				<div class="col-md-3 col-sm-6 gallery-grids">
+					<div class="hover ehover14">
+						<a >
+							<img src="images/Just A Minute.png" alt="" class="img-responsive" />
+							<div class="overlay">
+								<h4>Just a minute (JAM)</h4>
+							</div>	
+						</a>	
+					</div>
+				</div>
+                
+                
+				<div class="col-md-3 col-sm-6 gallery-grids">
+					<div class="hover ehover14">
+						<a>
+
+						<img src="images/Spell Bee.png" alt="" class="img-responsive" />
+							<div class="overlay">
+								<h4>Spell Bee</h4>
+								</div>
+						</a>	
+					</div>
+				</div>
+				
+				
+				<div class="clearfix"> </div> 
+			</div>
+			
+			</li>
+				<li>
+						 
+				
+			<div class="gallery-agileinfo-row">  
+				
+				<div class="col-md-3 col-md-offset-3 col-sm-6 col-sm-offset-3 gallery-grids">
+					<div class="hover ehover14">
+						<a>
+							<img src="images/Group Discussion.png" alt="" class="img-responsive" />
+							<div class="overlay">
+								<h4>Discussions</h4>
+							</div>	
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 gallery-grids">
+					<div class="hover ehover14">
+						<a>
+							<img src="images/friday.jpg" alt="" class="img-responsive" />
+							<div class="overlay">
+								<h4>Friday Night Discussions</h4>
+							</div>	
+						</a>	
+					</div>
+				</div>
+				
+				<div class="clearfix"> </div> 
+			</div>
+			
+			</li>
+
+				</ul>
+			</div>  
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+	<!-- //menu -->
+	<!-- team -->
+    
+	<div id="team" class="team">  
+		<div class="container">
+			<div class="agile-title">
+				<h3> Our Team</h3>
+			</div>
+			<div class="team-row">
+				<!--<div class="col-md-4 col-sm-16 team-grids">   
+					<div class="w3ls-effect">
+						<img src="images/Shreya.png" alt="img">
+						<div class="view-caption">
+							<h4>Shreya Pareek</h4> 
+							<p>Activity Coordinator
+							<br> shreyapareek@iiitdmj.ac.in
+							<br>9407477387</p>
+						</div>
+						<div class="social-icon">
+							
+							<a href="https://www.facebook.com/shreya.pareek.75?fref=ts" class="social-button facebook"><i class="fa fa-facebook"></i></a> 
+							
+						</div>
+					</div>    
+				</div>-->
+                
+				<div class="col-md-3 col-sm-12 team-grids">   
+					<div class="w3ls-effect">
+						<img src="images/shweta.jpg" alt="img">
+						<div class="view-caption">
+							<h4>Shweta Gupta</h4> 
+							<p>Co-Coordinator (Hindi)
+							<br> 2016261@iiitdmj.ac.in
+							<br>+91-9479729685</p>
+						</div>
+						<div class="social-icon">
+							
+							<a href="https://www.facebook.com/shwetagupta0898" class="social-button facebook"><i class="fa fa-facebook"></i></a> 
+							
+						</div>
+					</div>    
+				</div>
+                
+                <div class="col-md-1 col-sm-12 team-grids">   
+					 
+				</div>
+                
+                <div class="col-md-3 col-sm-12 team-grids">   
+					<div class="w3ls-effect">
+						<img src="images/anubhuti.jpg" alt="img">
+						<div class="view-caption">
+							<h4>Anubhuti Gupta</h4> 
+							<p>Coordinator
+							<br> anubhutigupta@iiitdmj.ac.in
+							<br>+91-8989599319</p>
+						</div>
+						<div class="social-icon">
+							
+							<a href="https://www.facebook.com/anubhuti.gupta.906" class="social-button facebook"><i class="fa fa-facebook"></i></a> 
+							
+						</div>
+					</div>    
+				</div>
+                
+                <div class="col-md-1 col-sm-12 team-grids">   
+					 
+				</div>
+                
+				<div class="col-md-3 col-sm-12 team-grids">   
+					<div class="w3ls-effect">
+						<img src="images/piyush.jpg" alt="img">
+						<div class="view-caption">
+							<h4>Piyush Karira</h4> 
+							<p>Co-Coordinator (English)
+							<br> 2016182@iiitdmj.ac.in
+							<br>+91-9424812189</p>
+						</div>
+						<div class="social-icon">
+							
+							<a href="https://www.facebook.com/piyush.karira.1" class="social-button facebook"><i class="fa fa-facebook"></i></a> 
+							
+						</div>
+					</div>    
+				</div>
+                <div class="clearfix"></div>
+			</div>
+            
+			<div class="row"><a href="members.html">
+			<center><div class="members col s3"><h4>Working Committee</h4></div>
+			</center></a>
+			</div>
+                 
+		</div>
+	</div>
+    
+	<!-- //team -->
+	<!-- gallery -->
+    <section >
+	<div id="gallery" class="gallery">
+		<div class="container">
+			<div class="agile-title">
+				<h3>Gallery</h3>
+			</div>
+			<div class="flexslider">
+				<ul class="slides">
+					<li>
+					
+			<div class="gallery-agileinfo-row">  
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/g1.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14" >
+							<img src="images/g1.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/g2.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/g2.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/g3.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g3.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/g4.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g4.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g5.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g5.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g6.jpg" class="swipebox"   data-toggle="modal" data-target="#modal14">
+							<img src="images/g6.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g7.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g7.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g8.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g8.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+                
+				
+				<div class="clearfix"> </div> 
+			</div>
+
+			</li>
+					<li>
+						<div class="gallery-agileinfo-row">  
+					<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/g9.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g9.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/g10.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g10.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/g11.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/g11.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/g12.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/g12.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g13.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/g13.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g14.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g14.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g15.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/g15.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g16.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g16.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				
+				<div class="clearfix"> </div> 
+			</div>
+					</li>
+
+					<li>
+						<div class="gallery-agileinfo-row">  
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/g17.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g17.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/g18.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g18.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+                        <a href="images/g19.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g19.jpg" alt="" class="img-responsive zoom-img" />
+						
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+					<a href="images/g20.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/g20.jpg" style="height:192px;" alt="" class="img-responsive zoom-img" />
+						
+
+                       
+							
+						</a>	
+                        	
+					</div>
+				</div>
+				
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g21.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/g21.jpg"  alt="" class="img-responsive zoom-img" />
+							
+						</a>
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g22.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/g22.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/g23.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/g23.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+                            <div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						
+							<a href="images/g24.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/g24.jpg" alt="" class="img-responsive zoom-img" />
+						</a>	
+					</div>
+				</div>
+				
+				<div class="clearfix"> </div> 
+			</div>
+					</li>
+				</ul>
+			</div>
+
+		</div>
+	</div>
+    </section>
+
+	<section class="event-agileinfo" id="events">
+	<div class="container">
+		<div class="agile-title">
+				<h3> Our Events</h3>
+			</div>
+		<p class="text-center">The following event and workshop was conducted by or in collaboration with Samvaad – The Literature and Quizzing Society.</p>
+		<div class="col-lg-4 col-md-4 col-sm-4 event-wthree1">
+			<div class="event-w3ls1">
+				   <a href="#" class="event-w3l" data-toggle="modal" data-target="#largeModal"><h4>The First Prime Minister</h4></a>
+				<p class="event-agile1">13th January 2018</p>
+			</div>	
+		</div>
+		<div class="col-lg-8 col-md-8 col-sm-8 event-wthree2">
+			<p class="event-w3-agile1">One of a kind event wherein the delegates played the role of a political leader and participated in a political debate which was set in 1947, prior to the appointment of the First Prime Minister.</p>
+		</div>
+		<div class="clearfix"></div>
+		<div class="event-w3-agileits">
+			<div class="col-lg-8 col-md-8 col-sm-8 event-wthree2">
+				<p class="event-w3-agile2">Samvaad, The Literature and Quizzing Society organised the first ever creative writing workshop in Jabalpur by The Anonymous Writer. The speakers for the event were Ms Heena Ganotra, Editor at the Anonymous Writer and she was accompanied by Mr Suyash Sahu.</p>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-4 event-wthree1">
+				<div class="event-w3ls2">
+					<a href="#" class="event-w3l" data-toggle="modal" data-target="#largeModal"><h4>The Anonymous Writer Offline Workshop.</h4></a>
+					<p class="event-agile1">14th January 2018</p>
+				</div>	
+			</div>
+			<div class="clearfix"></div>
+		</div>	
+		<!--<div class="col-lg-4 col-md-4 col-sm-4 event-wthree1">
+			<div class="event-w3ls1">
+				<a href="#" class="event-w3l" data-toggle="modal" data-target="#largeModal"><h4>Model United Nations (MUN) <br>Future Sessions</h4></a>
+				<p class="event-agile1">2016-2017</p>
+			</div>	
+		</div>
+		<div class="col-lg-8 col-md-8 col-sm-8 event-wthree2">
+			<p class="event-w3-agile1">A Model United Nations Assembly wherein students appear as delegates of various countries and talk about the bill proposed, in the interest of their respective country.Further the bill is passed or dropped depending upon majority votes. </p>
+		</div>-->
+		<!--<div class="clearfix"></div>
+		<div class="modal fade" id="largeModal" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+			<div class="modal-dialog modal-lg">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						<h4 class="modal-title" id="myModalLabel">Car-Hub</h4>
+					</div>
+					<div class="modal-body">
+						<div class="col-lg-6 col-md-6">
+							<img src="images/pop-img.jpg" alt="" class="img-responsive">
+						</div>
+						<div class="col-lg-6 col-md-6">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam facilisis semper felis, id suscipit arcu venenatis nec. Etiam non ligula ac massa bibendum molestie. Nam sit amet augue nulla. </p>
+							<p>Quisque pulvinar consectetur erat non ornare. Nulla facilisi. Phasellus condimentum turpis vel elit mollis tempus. Nulla at luctus ante. Nullam et nulla interdum, blandit quam et, vehicula nibh.</p>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+			</div>
+		</div>-->
+	</div>
+</section>
+    
+    
+    
+    <!--gallery of the first prime minister */-->
+    
+    <div id="gallery" class="gallery">
+		<div class="container">
+			<div class="agile-title">
+				<h3>The First Prime Minister | The Anonymous Writer Workshop</h3>
+			</div>
+			<div class="flexslider">
+				<ul class="slides">
+					<li>
+					
+			<div class="gallery-agileinfo-row">  
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/fpm10.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14" >
+							<img src="images/fpm10.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/fpm4.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/fpm4.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/fpm3.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/fpm3.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/fpm1.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/fpm1.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/fpm5.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/fpm5.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/fpm2.jpg" class="swipebox"   data-toggle="modal" data-target="#modal14">
+							<img src="images/fpm2.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/fpm7.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/fpm7.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-3 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/fpm8.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/fpm8.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				
+				<div class="clearfix"> </div> 
+			</div>
+
+			</li>
+					<li>
+						<div class="gallery-agileinfo-row">  
+					<div class="col-md-4 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/taw1.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/taw1.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-4 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/taw2.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/taw2.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-4 gallery-grids">
+					<div class="hover ehover14">
+						<a href="images/taw3.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/taw3.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+    
+				<div class="col-md-4 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/taw4.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/taw4.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-4 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/taw.jpg" class="swipebox" data-toggle="modal" data-target="#modal14">
+							<img src="images/taw.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				<div class="col-md-4 gallery-grids gallery-grids-mdl">
+					<div class="hover ehover14">
+						<a href="images/taw6.jpg" class="swipebox"  data-toggle="modal" data-target="#modal14">
+							<img src="images/taw6.jpg" alt="" class="img-responsive zoom-img" />
+							
+						</a>	
+					</div>
+				</div>
+				
+				<div class="clearfix"> </div> 
+			</div>
+					</li>
+                </ul>
+                
+            </div>
+			</div>
+
+		</div>
+    
+    
+    
+    
+<section class="work-agileinfo" id="fest">
+	<div class="container">
+		<div class="agile-title">
+				<h3> Fests</h3>
+			</div>
+		<p class="text-center" style="color:white;">Apart from the sessions and events Samvaad also organises different Fests throughout<br> the year which makes it the most active club of IIITDM Jabalpur</p>
+		<div class="col-lg-4 col-lg-offset-2 col-md-6 col-sm-6 col-xs-6 work-wthree">
+			<div class="grid">
+				<figure class="effect-moses">
+					<img src="images/11947827_502810913208149_2751538604228319150_o.jpg" style="height:218px;" alt="" class="img-responsive"/>
+							
+				</figure>
+			</div>
+			<a href="#" class="work-agile" data-toggle="modal" data-target="#largeModal"><h5 class="text-center" style="color:white;">Fiesta Da Literati</h5></a>
+			<p class="work-w3l" style="color:white;">Fiesta-da-Literati, intra-college Literature and Quizzing Festival, is the first of the cultural festivals for the odd semesters, conducted in the month of September. It brings in much needed excitement after the mid semester examinations and sees huge participation from students of the institute. </p>	
+		</div>
+		<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 work-wthree">
+			<div class="grid">
+				<figure class="effect-moses">
+					<img src="images/12485951_535069269982313_5785043869366605710_o.jpg" alt="" class="img-responsive"/>
+								
+				</figure>
+			</div>
+			<a href="#" class="work-agile" data-toggle="modal" data-target="#largeModal"><h5 class="text-center" style="color:white;">Alfaaz</h5></a>
+			<p class="work-w3l" style="color:white;">Alfaaz, inter-college Literature and Quizzing Festival, is the first to be conducted for the even semesters, in the month of January. It witnesses a true spectrum of talent when students from far and beyond come to participate in this ever exciting festival. </p>	
+		</div>
+		
+		
+		<div class="clearfix"></div>
+	</div>
+</section>
+    
+    
+    
+    
+    <section class="welcome" id="publication">
+	<div class="container" >
+		<div class="agile-title">
+				<h3>Publications</h3>
+			</div>
+		
+		<div class="col-lg-4 col-lg-offset-2 col-md-6 col-sm-6 col-xs-6 work-wthree">
+			<div class="grid">
+				<figure class="effect-moses">
+                    <div class="hover ehover14"> 
+                    <a href="http://revista.iiitdmj.ac.in/assets/revista-issue-5.pdf" target="_blank">
+                    <img src="images/revista.jpg" alt="" class="img-responsive"/>
+                    <div class="overlay">
+				<h4>ISSUE V</h4>
+                </div>
+                    </a>
+						</div>		
+				</figure>
+			</div>  
+               
+			<a href="#" class="work-agile" data-toggle="modal" data-target="#largeModal"><h3 class="text-center" style="color:black; padding: 5%">REVISTA</h3></a>
+            
+            
+			<p class="work-w3l" style="color:black;">Revista is the semi-annually published magazine of PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur. Revista believes in the freedom of decent expression.</p>	
+		</div>
+        
+		<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 work-wthree">
+			<div class="grid">
+				<figure class="effect-moses">
+                    <div class="hover ehover14"> 
+                    <a href="https://drive.google.com/open?id=1QB1GTmU8hSPv89Dp3prnclq6cXlfNicF " target="_blank"><img src="images/samsara.jpg" alt="" class="img-responsive"/> <div class="overlay">
+				<h4>ISSUE-1</h4>
+                </div></a>
+                    </div>			
+				</figure>
+                    
+			</div>
+			<a href="#" class="work-agile" data-toggle="modal" data-target="#largeModal"><h3 class="text-center" style="color:black;  padding:5%">THE SAMSARA</h3></a>
+			<p class="work-w3l" style="color:black;">The 260 acre campus with flora and fauna, the thousand people, the buildings on the ups and downs and the erratic climate. All of it, good or bad makes our world, Our Samsara. Institute's newspaper for the students and by the students. </p>	
+		</div>
+		
+		
+		<div class="clearfix"></div>
+	</div>
+
+    </section>
+    
+    
+	<!-- //gallery -->
+	<!-- address -->
+	<div id="contact" class="address"> 
+		<div class="container">
+			<div class="agile-title">
+				<h3> Contact Us</h3>
+			</div>
+			<ul>
+				<li><i class="fa fa-map-marker" aria-hidden="true"></i>Pdpm IIITDM Jabalpur, M.P,India , 482005</li>
+				<li><i class="fa fa-phone" aria-hidden="true"> </i>  8989599319</li>
+				<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:anubhutigupta@iiitdmj.ac.in"> anubhutigupta@iiitdmj.ac.in</a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- //address -->
+	<!-- contact -->
+	
+	<!-- //contact -->
+	<!-- footer -->
+	<div class="footer">
+		<div class="container">
+			<div class="social-icon">
+				
+				<a href="https://www.facebook.com/iiitdmj.samvaad/" class="social-button facebook"><i class="fa fa-facebook"></i></a> 
+				 
+				
+			</div>
+			<p>© 2016 Samvaad. All rights reserved | Designed and Developed by Nihal Gurjar | Edited by Piyush Karira</p>
+		</div>
+	</div>
+	<!-- //footer -->	 
+	<!-- swipe box js -->
+	<script src="js/jquery.swipebox.min.js"></script> 
+	<script type="text/javascript">
+			jQuery(function($) {
+				$(".swipebox").swipebox();
+			});
+	</script>
+	<!-- //swipe box js --> 
+	<!-- smooth-scrolling-of-move-up -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+			};
+			*/
+			
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			
+		});
+	</script>
+	<script src="js/bootstrap.js"></script>
+	
+   
+</body>
+</html>
